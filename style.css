@@ -31,7 +31,7 @@ margin-right:0px;
 
 .div3
 {
-  font-size:28px;
+  font-size:28.50px;
 }
 
 .h1-1
@@ -60,7 +60,8 @@ font-style:italic;
 }
 .topnav3
 {
-  background-color:whitesmoke;font-family:arial;
+  background-color:whitesmoke;
+font-family:arial;
 }
 .topnav4{
   background-color:snow;
@@ -78,7 +79,8 @@ font-style:italic;
   color:red;
 }
 #a2{
-  text-decoration:none;font-family=arial;
+  text-decoration:none;
+font-family=arial;
 }
 a{
   text-decoration:none;
