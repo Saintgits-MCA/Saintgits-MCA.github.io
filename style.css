@@ -71,7 +71,6 @@ font-family:arial;
 {
   background-color:rgb(207, 238, 250);
   border:9px solid rgb(207, 238, 250);
-  font-size:26px;
 }
 .topnav6{
   background-color:rgb(32,79,179);
@@ -89,7 +88,6 @@ a{
 #b3
 {
   color:orangered;
-  font-size:22px;
   text-align:justify;
 }
 .navy
