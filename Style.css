@@ -27,12 +27,13 @@ margin-right:0px;
 
   #marq1
   {
-    font-size-adjust:22px;
+    font-size:22px;
   }
 
 .div3
 {
-font-size-adjust:28px;
+    font-size:28px;
+    font-size-adjust:none;
 }
 
 .h1-1
