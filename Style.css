@@ -27,7 +27,7 @@ height:50px;
 #div3
 {
     font-size:28px;
-   font-size-adjust :28px;
+   font-size-adjust:none;
 }
 
 .h1-1
