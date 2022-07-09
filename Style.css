@@ -1,35 +1,29 @@
-.a1{
+.a1
+{
     color:snow;
     text-decoration:none;
   }
-
- #center1{
+ #center1
+{
     font-size:20px;
   }
-
-  .topnav{
-    background-color:red;
+.topnav
+{
+background-color:red;
 border:9px solid red;
 height:50px;
   }
-
   .topnav2{
     background-color:lightgrey;
   }
-
 #or
 {
   text-align:center;
 }
-
-
 #marq1
   {
     font-size:22px;
   }
-
-
-
 #div3
 {
     font-size:28px;
@@ -40,10 +34,12 @@ height:50px;
   color:brown;
   text-align:center;
 }
-#h4{
+#h4
+{
   color:brown;
 }
-.plin1{
+.plin1
+{
   color:red;
 }
 .plin2
@@ -64,7 +60,8 @@ font-style:italic;
   background-color:whitesmoke;
 font-family:arial;
 }
-.topnav4{
+.topnav4
+{
   background-color:snow;
 }
 .topnav5
@@ -73,17 +70,21 @@ font-family:arial;
   border:9px solid rgb(207, 238, 250);
   font-size:26px;
 }
-.topnav6{
+.topnav6
+{
   background-color:rgb(32,79,179);
 }
-#b1{
+#b1
+{
   color:red;
 }
-#a2{
+#a2
+{
   text-decoration:none;
 font-family:arial;
 }
-a{
+a
+{
   text-decoration:none;
 }
 #b3
@@ -95,7 +96,8 @@ a{
   color:navy;
   text-decoration:none
 }
-.p{
+.p
+{
     text-align:justify;
     margin-left: 20px;
     margin-right: 20px;
