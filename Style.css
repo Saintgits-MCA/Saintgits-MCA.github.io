@@ -12,7 +12,7 @@
 background-color:red;
 border:9px solid red;
 height:50px;
-  }
+}
   .topnav2{
     background-color:lightgrey;
   }
@@ -31,6 +31,11 @@ height:50px;
   text-align:center;
   margin-left:20px;
   margin-right:20px;
+}
+#div3
+{
+ font-size:28px;
+
 }
 #h4
 {
