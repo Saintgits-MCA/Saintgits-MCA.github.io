@@ -56,7 +56,9 @@ height:50px;
 .list
 {
   list-style-type:square;
-font-style:italic;
+  font-style:italic;
+  font-size:100px;
+  text-size:100px;  
 }
 .topnav3
 {
